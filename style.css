@@ -1,0 +1,71 @@
+.header {
+
+}
+.w-full {
+	width: 100%;
+}
+
+
+@media screen and (max-width: 768px) {
+	.header {
+		width: 100% !important;
+	}
+	.header-r {
+		width: 100% !important;
+	}
+	.header-1-info {
+		display: flex !important;
+		justify-content: center;
+		width: 100% !important;
+	}
+	.about-l {
+		width: 100% !important;
+		font-size: 20px !important;
+	}
+	.about-r {
+		width: 100% !important;
+	}
+	.content {
+		padding-right: 30px !important;
+	}
+	.about-source {
+		width: 40% !important;
+	}
+	#main-menu {
+		display: none !important;
+	}
+	.about-wallet-1{
+		width: 100% !important;
+	}
+	.about-wallet-2{
+		width: 100% !important;
+	}
+	.affiliate-l {
+		width: 80% !important;
+		margin-right: 20px !important;
+		margin-bottom: 20px !important;
+	}
+	.affiliate-r {
+		width: 80% !important;
+	}
+	.trait {
+		width: 80% !important;
+	}
+	.footer-nav {
+		width: 100% !important;
+
+	}
+	.footer-nav li {
+		display: block !important;
+		text-align: center;
+	}
+	.footer-container {
+		width: 100% !important;
+	}
+	.bottom-traits {
+		    margin-bottom: 55px !important;
+	}
+	.footer-btc {
+		float: none !important;
+	}
+	}
